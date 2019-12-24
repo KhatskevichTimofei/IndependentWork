@@ -1,0 +1,18 @@
+﻿  Source.cpp
+C:\Users\User\source\repos\final lab\final lab\Source.cpp(24,42): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\source\repos\final lab\final lab\Source.cpp(25,23): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\source\repos\final lab\final lab\Source.cpp(38,39): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\source\repos\final lab\final lab\Source.cpp(39,33): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\source\repos\final lab\final lab\Source.cpp(52,53): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\source\repos\final lab\final lab\Source.cpp(53,12): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\source\repos\final lab\final lab\Source.cpp(66,53): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\source\repos\final lab\final lab\Source.cpp(67,11): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\source\repos\final lab\final lab\Source.cpp(80,45): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\source\repos\final lab\final lab\Source.cpp(81,23): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\source\repos\final lab\final lab\Source.cpp(94,45): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\source\repos\final lab\final lab\Source.cpp(95,48): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\source\repos\final lab\final lab\Source.cpp(108,11): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\source\repos\final lab\final lab\Source.cpp(109,24): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\source\repos\final lab\final lab\Source.cpp(122,44): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\source\repos\final lab\final lab\Source.cpp(123,18): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+LINK : fatal error LNK1168: не удается открыть C:\Users\User\source\repos\final lab\Debug\final lab.exe для записи

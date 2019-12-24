@@ -1,0 +1,13 @@
+﻿  Source.cpp
+C:\Users\User\source\repos\lab№5\lab№5\Source.cpp(9,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\User\source\repos\lab№5\lab№5\Source.cpp(13,24): warning C4838: преобразование из "int" в "char" требует сужающего преобразования
+C:\Users\User\source\repos\lab№5\lab№5\Source.cpp(13,60): warning C4305: инициализация: усечение из "int" в "char"
+C:\Users\User\source\repos\lab№5\lab№5\Source.cpp(13,24): warning C4309: инициализация: усечение константного значения
+C:\Users\User\source\repos\lab№5\lab№5\Source.cpp(13,29): warning C4838: преобразование из "int" в "char" требует сужающего преобразования
+C:\Users\User\source\repos\lab№5\lab№5\Source.cpp(13,29): warning C4309: инициализация: усечение константного значения
+C:\Users\User\source\repos\lab№5\lab№5\Source.cpp(13,43): warning C4838: преобразование из "int" в "char" требует сужающего преобразования
+C:\Users\User\source\repos\lab№5\lab№5\Source.cpp(13,43): warning C4309: инициализация: усечение константного значения
+C:\Users\User\source\repos\lab№5\lab№5\Source.cpp(13,48): warning C4838: преобразование из "int" в "char" требует сужающего преобразования
+C:\Users\User\source\repos\lab№5\lab№5\Source.cpp(13,48): warning C4309: инициализация: усечение константного значения
+C:\Users\User\source\repos\lab№5\lab№5\Source.cpp(24,10): warning C4477: "printf": в строке форматирования "%i" требуется аргумент типа "int", но вариативный аргумент "2" имеет тип "char *"
+  lab№5.vcxproj -> C:\Users\User\source\repos\lab№5\Debug\lab№5.exe

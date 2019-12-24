@@ -1,0 +1,16 @@
+﻿"final lab.exe" (Win32). Загружено "C:\Users\User\source\repos\final lab\Debug\final lab.exe". Символы загружены.
+"final lab.exe" (Win32). Загружено "C:\Windows\SysWOW64\ntdll.dll". 
+"final lab.exe" (Win32). Загружено "C:\Windows\SysWOW64\kernel32.dll". 
+"final lab.exe" (Win32). Загружено "C:\Windows\SysWOW64\KernelBase.dll". 
+"final lab.exe" (Win32). Загружено "C:\Program Files\AVAST Software\Avast\x86\aswhook.dll". 
+"final lab.exe" (Win32). Загружено "C:\Windows\SysWOW64\vcruntime140d.dll". 
+"final lab.exe" (Win32). Загружено "C:\Windows\SysWOW64\ucrtbased.dll". 
+Поток 0x2724 завершился с кодом 0 (0x0).
+"final lab.exe" (Win32). Загружено "C:\Windows\SysWOW64\kernel.appcore.dll". 
+"final lab.exe" (Win32). Загружено "C:\Windows\SysWOW64\msvcrt.dll". 
+"final lab.exe" (Win32). Загружено "C:\Windows\SysWOW64\rpcrt4.dll". 
+"final lab.exe" (Win32). Загружено "C:\Windows\SysWOW64\sspicli.dll". 
+"final lab.exe" (Win32). Загружено "C:\Windows\SysWOW64\cryptbase.dll". 
+"final lab.exe" (Win32). Загружено "C:\Windows\SysWOW64\bcryptprimitives.dll". 
+"final lab.exe" (Win32). Загружено "C:\Windows\SysWOW64\sechost.dll". 
+Программа "[13268] final lab.exe" завершилась с кодом 0 (0x0).
